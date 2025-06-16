@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Get Easy Credit Cards</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: #f5f7fa;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #004aad;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+    }
+    h1 {
+      margin: 0;
+      font-size: 2rem;
+    }
+    .container {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 20px;
+      padding: 2rem;
+    }
+    .card {
+      background-color: white;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      padding: 1.5rem;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+    .card h2 {
+      font-size: 1.2rem;
+      margin-bottom: 10px;
+      color: #333;
+    }
+    .card p {
+      font-size: 0.9rem;
+      color: #666;
+    }
+    .btn {
+      margin-top: 1rem;
+      background-color: #004aad;
+      color: white;
+      padding: 10px 15px;
+      border: none;
+      border-radius: 5px;
+      text-align: center;
+      text-decoration: none;
+      font-weight: bold;
+      transition: 0.3s;
+    }
+    .btn:hover {
+      background-color: #00307c;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background-color: #eee;
+      color: #555;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Get Easy Credit Cards</h1>
+  <p>Apply credit cards online in just a few clicks!</p>
+</header>
+
+<div class="container">
+
+  <div class="card">
+    <h2>IndusInd Legend Credit Card</h2>
+    <p>Premium benefits with lifestyle privileges.</p>
+    <a href="https://www.banksathi.com/credit-cards/indusind-bank/legend" class="btn" target="_blank">Apply Now</a>
+  </div>
+
+  <div class="card">
+    <h2>IndusInd Platinum Select</h2>
+    <p>Smart credit for your daily shopping needs.</p>
+    <a href="https://www.banksathi.com/leads/platinum-select" class="btn" target="_blank">Apply Now</a>
+  </div>
+
+  <div class="card">
+    <h2>IndusInd Platinum Aura</h2>
+    <p>Tailored credit card for lifestyle & travel.</p>
+    <a href="https://www.banksathi.com/leads/platinum-aura" class="btn" target="_blank">Apply Now</a>
+  </div>
+
+  <div class="card">
+    <h2>IndusInd Iconia Amex</h2>
+    <p>American Express powered rewards & offers.</p>
+    <a href="https://www.banksathi.com/leads/iconia-amex" class="btn" target="_blank">Apply Now</a>
+  </div>
+
+  <div class="card">
+    <h2>IndusInd Neo Credit Card</h2>
+    <p>Best card for cashback and online deals.</p>
+    <a href="https://www.banksathi.com/leads/neo" class="btn" target="_blank">Apply Now</a>
+  </div>
+
+  <div class="card">
+    <h2>IDFC First Millennia Card</h2>
+    <p>0 joining fee card with great cashback.</p>
+    <a href="https://www.banksathi.com/leads/millennia" class="btn" target="_blank">Apply Now</a>
+  </div>
+
+</div>
+
+<footer>
+  © 2025 Get Easy Credit Cards | Powered by BankSathi
+</footer>
+
+</body>
+</html>
