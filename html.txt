@@ -80,37 +80,37 @@
 
   <div class="card">
     <h2>IndusInd Legend Credit Card</h2>
-    <p>Premium benefits with lifestyle privileges.</p>
+    <p>Premium lifestyle benefits with reward points.</p>
     <a href="https://www.banksathi.com/credit-cards/indusind-bank/legend" class="btn" target="_blank">Apply Now</a>
   </div>
 
   <div class="card">
     <h2>IndusInd Platinum Select</h2>
-    <p>Smart credit for your daily shopping needs.</p>
+    <p>Smart credit for your shopping & travel needs.</p>
     <a href="https://www.banksathi.com/leads/platinum-select" class="btn" target="_blank">Apply Now</a>
   </div>
 
   <div class="card">
     <h2>IndusInd Platinum Aura</h2>
-    <p>Tailored credit card for lifestyle & travel.</p>
+    <p>Designed for lifestyle & family benefits.</p>
     <a href="https://www.banksathi.com/leads/platinum-aura" class="btn" target="_blank">Apply Now</a>
   </div>
 
   <div class="card">
     <h2>IndusInd Iconia Amex</h2>
-    <p>American Express powered rewards & offers.</p>
+    <p>Enjoy American Express rewards & offers.</p>
     <a href="https://www.banksathi.com/leads/iconia-amex" class="btn" target="_blank">Apply Now</a>
   </div>
 
   <div class="card">
     <h2>IndusInd Neo Credit Card</h2>
-    <p>Best card for cashback and online deals.</p>
+    <p>Best for cashback, offers & digital payments.</p>
     <a href="https://www.banksathi.com/leads/neo" class="btn" target="_blank">Apply Now</a>
   </div>
 
   <div class="card">
     <h2>IDFC First Millennia Card</h2>
-    <p>0 joining fee card with great cashback.</p>
+    <p>No joining fee + cashback on all spends.</p>
     <a href="https://www.banksathi.com/leads/millennia" class="btn" target="_blank">Apply Now</a>
   </div>
 
