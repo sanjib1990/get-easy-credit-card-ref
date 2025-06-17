@@ -3,122 +3,80 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Get Easy Credit Cards</title>
+  <title>Apply Best Credit Cards Online</title>
   <style>
     body {
       font-family: 'Segoe UI', sans-serif;
-      background: #f5f7fa;
+      background: #f9f9f9;
       margin: 0;
-      padding: 0;
-    }
-    header {
-      background-color: #004aad;
-      color: white;
-      text-align: center;
-      padding: 1rem;
+      padding: 20px;
     }
     h1 {
-      margin: 0;
-      font-size: 2rem;
+      text-align: center;
+      color: #222;
     }
-    .container {
+    .card-list {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
       gap: 20px;
-      padding: 2rem;
+      margin-top: 30px;
     }
     .card {
-      background-color: white;
-      border-radius: 10px;
-      box-shadow: 0 0 10px rgba(0,0,0,0.1);
-      padding: 1.5rem;
-      display: flex;
-      flex-direction: column;
-      justify-content: space-between;
+      background: white;
+      padding: 20px;
+      border-radius: 12px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      transition: transform 0.2s ease;
+    }
+    .card:hover {
+      transform: scale(1.03);
     }
     .card h2 {
-      font-size: 1.2rem;
-      margin-bottom: 10px;
-      color: #333;
+      font-size: 1.2em;
+      color: #0077cc;
     }
-    .card p {
-      font-size: 0.9rem;
-      color: #666;
-    }
-    .btn {
-      margin-top: 1rem;
-      background-color: #004aad;
-      color: white;
-      padding: 10px 15px;
-      border: none;
-      border-radius: 5px;
-      text-align: center;
+    .card a {
       text-decoration: none;
-      font-weight: bold;
-      transition: 0.3s;
+      display: inline-block;
+      margin-top: 10px;
+      padding: 10px 15px;
+      background-color: #0077cc;
+      color: white;
+      border-radius: 6px;
+      transition: background 0.2s;
     }
-    .btn:hover {
-      background-color: #00307c;
-    }
-    footer {
-      text-align: center;
-      padding: 1rem;
-      background-color: #eee;
-      color: #555;
-      font-size: 0.9rem;
+    .card a:hover {
+      background-color: #005fa3;
     }
   </style>
 </head>
 <body>
-
-<header>
-  <h1>Get Easy Credit Cards</h1>
-  <p>Apply credit cards online in just a few clicks!</p>
-</header>
-
-<div class="container">
-
-  <div class="card">
-    <h2>IndusInd Legend Credit Card</h2>
-    <p>Premium lifestyle benefits with reward points.</p>
-    <a href="https://www.banksathi.com/credit-cards/indusind-bank/legend" class="btn" target="_blank">Apply Now</a>
+  <h1>Apply Credit Cards Easily</h1>
+  <div class="card-list">
+    <div class="card">
+      <h2>IndusInd Bank - Legend</h2>
+      <a href="https://www.banksathi.com/credit-cards/indusind-bank/legend" target="_blank">Apply Now</a>
+    </div>
+    <div class="card">
+      <h2>IndusInd Bank - Platinum</h2>
+      <a href="https://www.banksathi.com/leads/platinum-select" target="_blank">Apply Now</a>
+    </div>
+    <div class="card">
+      <h2>IndusInd Bank - Platinum Aura</h2>
+      <a href="https://www.banksathi.com/leads/platinum-aura" target="_blank">Apply Now</a>
+    </div>
+    <div class="card">
+      <h2>IndusInd Bank - Iconia Amex</h2>
+      <a href="https://www.banksathi.com/leads/iconia-amex" target="_blank">Apply Now</a>
+    </div>
+    <div class="card">
+      <h2>IndusInd Bank - Neo</h2>
+      <a href="https://www.banksathi.com/leads/neo" target="_blank">Apply Now</a>
+    </div>
+    <div class="card">
+      <h2>IDFC Bank - First Millennia</h2>
+      <a href="https://www.banksathi.com/leads/millennia" target="_blank">Apply Now</a>
+    </div>
   </div>
-
-  <div class="card">
-    <h2>IndusInd Platinum Select</h2>
-    <p>Smart credit for your shopping & travel needs.</p>
-    <a href="https://www.banksathi.com/leads/platinum-select" class="btn" target="_blank">Apply Now</a>
-  </div>
-
-  <div class="card">
-    <h2>IndusInd Platinum Aura</h2>
-    <p>Designed for lifestyle & family benefits.</p>
-    <a href="https://www.banksathi.com/leads/platinum-aura" class="btn" target="_blank">Apply Now</a>
-  </div>
-
-  <div class="card">
-    <h2>IndusInd Iconia Amex</h2>
-    <p>Enjoy American Express rewards & offers.</p>
-    <a href="https://www.banksathi.com/leads/iconia-amex" class="btn" target="_blank">Apply Now</a>
-  </div>
-
-  <div class="card">
-    <h2>IndusInd Neo Credit Card</h2>
-    <p>Best for cashback, offers & digital payments.</p>
-    <a href="https://www.banksathi.com/leads/neo" class="btn" target="_blank">Apply Now</a>
-  </div>
-
-  <div class="card">
-    <h2>IDFC First Millennia Card</h2>
-    <p>No joining fee + cashback on all spends.</p>
-    <a href="https://www.banksathi.com/leads/millennia" class="btn" target="_blank">Apply Now</a>
-  </div>
-
-</div>
-
-<footer>
-  © 2025 Get Easy Credit Cards | Powered by BankSathi
-</footer>
-
 </body>
 </html>
