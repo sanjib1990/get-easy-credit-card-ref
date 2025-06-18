@@ -1,45 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<<style>
-/* aapka existing CSS yahan ho sakta hai */
-
-</style>
-
-<!-- YAHAN PASTE KAREIN: -->
-<style>
-.card-container {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
-  justify-content: center;
-  padding: 20px;
-}
-
-.card {
-  border: 1px solid #ccc;
-  border-radius: 10px;
-  width: 220px;
-  text-align: center;
-  padding: 15px;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-  background-color: #fff;
-  transition: transform 0.2s ease;
-}
-
-.card:hover {
-  transform: scale(1.05);
-}
-
-.card img {
-  width: 100px;
-  height: auto;
-  margin-bottom: 10px;
-  background-color: #f5f5f5;
-  padding: 6px;
-  border-radius: 10px;
-}
-</style>
->
+<head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Apply Best Credit Cards Online</title>
@@ -50,30 +11,53 @@
       margin: 0;
       padding: 20px;
     }
-    h1 {
+
+    h1, h2 {
       text-align: center;
       color: #222;
     }
-    .card-list {
+
+    .card-list, .card-container {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
       gap: 20px;
-      margin-top: 30px;
+      margin: 30px auto;
+      padding: 0 20px;
+      max-width: 1000px;
     }
+
     .card {
-      background: white;
+      background: #fff;
       padding: 20px;
       border-radius: 12px;
       box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      text-align: center;
       transition: transform 0.2s ease;
     }
+
     .card:hover {
       transform: scale(1.03);
     }
+
+    .card img {
+      width: 100px;
+      height: auto;
+      margin-bottom: 10px;
+      border-radius: 8px;
+      background: #f5f5f5;
+      padding: 6px;
+    }
+
     .card h2 {
-      font-size: 1.2em;
+      font-size: 1.1em;
       color: #0077cc;
     }
+
+    .card p {
+      font-size: 1em;
+      color: #333;
+    }
+
     .card a {
       text-decoration: none;
       display: inline-block;
@@ -84,57 +68,17 @@
       border-radius: 6px;
       transition: background 0.2s;
     }
+
     .card a:hover {
       background-color: #005fa3;
     }
   </style>
-<<style>
-.card-container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 20px;
-  padding: 20px;
-}
+</head>
+<body>
 
-.card {
-  text-align: center;
-  width: 200px;
-}
-
-.card img {
-  width: 100px;
-  height: auto;
-  margin-bottom: 10px;
-}
-</style>
->
-<<h2 style="text-align:center;">Popular HDFC Credit Cards</h2>
-
-<div class="card-container">
-  <div class="card">
-    <a href="https://www.banksathi.com/credit-cards/hdfc-bank/hdfc-moneyback-plus-credit-card" target="_blank">
-      <img src="images/hdfc-logo.png" alt="HDFC MoneyBack Plus">
-      <p>HDFC MoneyBack Plus Credit Card</p>
-    </a>
-  </div>
-
-  <div class="card">
-    <a href="https://www.banksathi.com/leads/shoppers-stop" target="_blank">
-      <img src="images/hdfc-logo.png" alt="HDFC Shoppers Stop">
-      <p>HDFC Shoppers Stop Credit Card</p>
-    </a>
-  </div>
-
-  <div class="card">
-    <a href="https://www.banksathi.com/leads/equitas-elegance" target="_blank">
-      <img src="images/hdfc-logo.png" alt="HDFC Equitas Elegance">
-      <p>HDFC Equitas Elegance Credit Card</p>
-    </a>
-  </div>
-</div>
->
   <h1>Apply Credit Cards Easily</h1>
+
+  <!-- IndusInd & IDFC Section -->
   <div class="card-list">
     <div class="card">
       <h2>IndusInd Bank - Legend</h2>
@@ -161,133 +105,26 @@
       <a href="https://www.banksathi.com/leads/millennia" target="_blank">Apply Now</a>
     </div>
   </div>
-</body>
-</html>
-<!-- New HDFC Credit Cards Section -->
-<h2>Apply for HDFC Credit Cards</h2>
 
-<div class="bank-card">
-  <a href="https://www.banksathi.com/credit-cards/hdfc-bank/hdfc-moneyback-plus-credit-card" target="_blank">
-    <img src="images/hdfc-logo.png" alt="HDFC MoneyBack Plus Credit Card" width="100">
-    <p>HDFC MoneyBack Plus Credit Card</p>
-  </a>
-</div>
-
-<div class="bank-card">
-  <a href="https://www.banksathi.com/leads/shoppers-stop" target="_blank">
-    <img src="images/hdfc-logo.png" alt="HDFC Shoppers Stop Credit Card" width="100">
-    <p>HDFC Shoppers Stop Credit Card</p>
-  </a>
-</div>
-
-<div class="bank-card">
-  <a href="https://www.banksathi.com/leads/equitas-elegance" target="_blank">
-    <img src="images/hdfc-logo.png" alt="HDFC Equitas Elegance Credit Card" width="100">
-    <p>HDFC Equitas Elegance Credit Card</p>
-  </a>
-</div>
-<style>
-.card-container {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
-  justify-content: center;
-  padding: 20px;
-}
-
-.card {
-  border: 1px solid #ccc;
-  border-radius: 10px;
-  width: 220px;
-  text-align: center;
-  padding: 15px;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-  transition: transform 0.2s ease;
-  background-color: #fff;
-}
-
-.card:hover {
-  transform: scale(1.05);
-}
-
-.card img {
-  width: 100px;
-  height: auto;
-  margin-bottom: 10px;
-}
-</style>
-<div class="card-container">
-  <!-- multiple .card divs yahan aayenge -->
-</div>
-<div class="card">
-  <a href="LINK" target="_blank">
-    <img src="LOGO" alt="Card Name">
-    <p>Card Name</p>
-  </a>
-</div>
-<h2 style="text-align:center;">Popular HDFC Credit Cards</h2>
-
-<div class="card-container">
-  <div class="card">
-    <a href="https://www.banksathi.com/credit-cards/hdfc-bank/hdfc-moneyback-plus-credit-card" target="_blank">
+  <!-- HDFC Credit Card Section -->
+  <h2>Popular HDFC Credit Cards</h2>
+  <div class="card-container">
+    <div class="card">
       <img src="images/hdfc-logo.png" alt="HDFC MoneyBack Plus">
       <p>HDFC MoneyBack Plus Credit Card</p>
-    </a>
-  </div>
-
-  <div class="card">
-    <a href="https://www.banksathi.com/leads/shoppers-stop" target="_blank">
+      <a href="https://www.banksathi.com/credit-cards/hdfc-bank/hdfc-moneyback-plus-credit-card" target="_blank">Apply Now</a>
+    </div>
+    <div class="card">
       <img src="images/hdfc-logo.png" alt="HDFC Shoppers Stop">
       <p>HDFC Shoppers Stop Credit Card</p>
-    </a>
-  </div>
-
-  <div class="card">
-    <a href="https://www.banksathi.com/leads/equitas-elegance" target="_blank">
+      <a href="https://www.banksathi.com/leads/shoppers-stop" target="_blank">Apply Now</a>
+    </div>
+    <div class="card">
       <img src="images/hdfc-logo.png" alt="HDFC Equitas Elegance">
       <p>HDFC Equitas Elegance Credit Card</p>
-    </a>
+      <a href="https://www.banksathi.com/leads/equitas-elegance" target="_blank">Apply Now</a>
+    </div>
   </div>
-</div>
-<style>
-/* aapka existing CSS yahan ho sakta hai */
 
-</style>
-
-<!-- YAHAN PASTE KAREIN: -->
-<style>
-.card-container {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
-  justify-content: center;
-  padding: 20px;
-}
-
-.card {
-  border: 1px solid #ccc;
-  border-radius: 10px;
-  width: 220px;
-  text-align: center;
-  padding: 15px;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-  background-color: #fff;
-  transition: transform 0.2s ease;
-}
-
-.card:hover {
-  transform: scale(1.05);
-}
-
-.card img {
-  width: 100px;
-  height: auto;
-  margin-bottom: 10px;
-  background-color: #f5f5f5;
-  padding: 6px;
-  border-radius: 10px;
-}
-</style>
-
-
-
+</body>
+</html>
