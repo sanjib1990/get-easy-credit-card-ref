@@ -44,8 +44,9 @@
       height: auto;
       margin-bottom: 10px;
       border-radius: 8px;
-      background: #f5f5f5;
-      padding: 6px;
+      /* Remove background and padding */
+      background: none;
+      padding: 0;
     }
 
     .card h2 {
@@ -81,26 +82,32 @@
   <!-- IndusInd & IDFC Section -->
   <div class="card-list">
     <div class="card">
+      <img src="images/indusind.png" alt="IndusInd Legend">
       <h2>IndusInd Bank - Legend</h2>
       <a href="https://www.banksathi.com/credit-cards/indusind-bank/legend" target="_blank">Apply Now</a>
     </div>
     <div class="card">
+      <img src="images/indusind.png" alt="IndusInd Platinum">
       <h2>IndusInd Bank - Platinum</h2>
       <a href="https://www.banksathi.com/leads/platinum-select" target="_blank">Apply Now</a>
     </div>
     <div class="card">
+      <img src="images/indusind.png" alt="IndusInd Platinum Aura">
       <h2>IndusInd Bank - Platinum Aura</h2>
       <a href="https://www.banksathi.com/leads/platinum-aura" target="_blank">Apply Now</a>
     </div>
     <div class="card">
+      <img src="images/indusind.png" alt="IndusInd Iconia Amex">
       <h2>IndusInd Bank - Iconia Amex</h2>
       <a href="https://www.banksathi.com/leads/iconia-amex" target="_blank">Apply Now</a>
     </div>
     <div class="card">
+      <img src="images/indusind.png" alt="IndusInd Neo">
       <h2>IndusInd Bank - Neo</h2>
       <a href="https://www.banksathi.com/leads/neo" target="_blank">Apply Now</a>
     </div>
     <div class="card">
+      <img src="images/idfc.png" alt="IDFC Millennia">
       <h2>IDFC Bank - First Millennia</h2>
       <a href="https://www.banksathi.com/leads/millennia" target="_blank">Apply Now</a>
     </div>
