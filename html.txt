@@ -88,8 +88,52 @@
       background-color: #005fa3;
     }
   </style>
-</head>
-<body>
+<<style>
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px;
+}
+
+.card {
+  text-align: center;
+  width: 200px;
+}
+
+.card img {
+  width: 100px;
+  height: auto;
+  margin-bottom: 10px;
+}
+</style>
+>
+<<h2 style="text-align:center;">Popular HDFC Credit Cards</h2>
+
+<div class="card-container">
+  <div class="card">
+    <a href="https://www.banksathi.com/credit-cards/hdfc-bank/hdfc-moneyback-plus-credit-card" target="_blank">
+      <img src="images/hdfc-logo.png" alt="HDFC MoneyBack Plus">
+      <p>HDFC MoneyBack Plus Credit Card</p>
+    </a>
+  </div>
+
+  <div class="card">
+    <a href="https://www.banksathi.com/leads/shoppers-stop" target="_blank">
+      <img src="images/hdfc-logo.png" alt="HDFC Shoppers Stop">
+      <p>HDFC Shoppers Stop Credit Card</p>
+    </a>
+  </div>
+
+  <div class="card">
+    <a href="https://www.banksathi.com/leads/equitas-elegance" target="_blank">
+      <img src="images/hdfc-logo.png" alt="HDFC Equitas Elegance">
+      <p>HDFC Equitas Elegance Credit Card</p>
+    </a>
+  </div>
+</div>
+>
   <h1>Apply Credit Cards Easily</h1>
   <div class="card-list">
     <div class="card">
