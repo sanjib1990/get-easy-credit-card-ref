@@ -44,9 +44,8 @@
       height: auto;
       margin-bottom: 10px;
       border-radius: 8px;
-      /* Remove background and padding */
-      background: none;
-      padding: 0;
+      background: #f5f5f5;
+      padding: 6px;
     }
 
     .card h2 {
@@ -82,32 +81,32 @@
   <!-- IndusInd & IDFC Section -->
   <div class="card-list">
     <div class="card">
-      <img src="images/indusind.png" alt="IndusInd Legend">
+      <img src="images/indusind.png" alt="IndusInd Bank">
       <h2>IndusInd Bank - Legend</h2>
       <a href="https://www.banksathi.com/credit-cards/indusind-bank/legend" target="_blank">Apply Now</a>
     </div>
     <div class="card">
-      <img src="images/indusind.png" alt="IndusInd Platinum">
+      <img src="images/indusind.png" alt="IndusInd Bank">
       <h2>IndusInd Bank - Platinum</h2>
       <a href="https://www.banksathi.com/leads/platinum-select" target="_blank">Apply Now</a>
     </div>
     <div class="card">
-      <img src="images/indusind.png" alt="IndusInd Platinum Aura">
+      <img src="images/indusind.png" alt="IndusInd Bank">
       <h2>IndusInd Bank - Platinum Aura</h2>
       <a href="https://www.banksathi.com/leads/platinum-aura" target="_blank">Apply Now</a>
     </div>
     <div class="card">
-      <img src="images/indusind.png" alt="IndusInd Iconia Amex">
+      <img src="images/indusind.png" alt="IndusInd Bank">
       <h2>IndusInd Bank - Iconia Amex</h2>
       <a href="https://www.banksathi.com/leads/iconia-amex" target="_blank">Apply Now</a>
     </div>
     <div class="card">
-      <img src="images/indusind.png" alt="IndusInd Neo">
+      <img src="images/indusind.png" alt="IndusInd Bank">
       <h2>IndusInd Bank - Neo</h2>
       <a href="https://www.banksathi.com/leads/neo" target="_blank">Apply Now</a>
     </div>
     <div class="card">
-      <img src="images/idfc.png" alt="IDFC Millennia">
+      <img src="images/idfc.png" alt="IDFC Bank">
       <h2>IDFC Bank - First Millennia</h2>
       <a href="https://www.banksathi.com/leads/millennia" target="_blank">Apply Now</a>
     </div>
@@ -117,17 +116,17 @@
   <h2>Popular HDFC Credit Cards</h2>
   <div class="card-container">
     <div class="card">
-      <img src="images/hdfc-logo.png" alt="HDFC MoneyBack Plus">
+      <img src="images/hdfc.png" alt="HDFC MoneyBack Plus">
       <p>HDFC MoneyBack Plus Credit Card</p>
       <a href="https://www.banksathi.com/credit-cards/hdfc-bank/hdfc-moneyback-plus-credit-card" target="_blank">Apply Now</a>
     </div>
     <div class="card">
-      <img src="images/hdfc-logo.png" alt="HDFC Shoppers Stop">
+      <img src="images/hdfc.png" alt="HDFC Shoppers Stop">
       <p>HDFC Shoppers Stop Credit Card</p>
       <a href="https://www.banksathi.com/leads/shoppers-stop" target="_blank">Apply Now</a>
     </div>
     <div class="card">
-      <img src="images/hdfc-logo.png" alt="HDFC Equitas Elegance">
+      <img src="images/hdfc.png" alt="HDFC Equitas Elegance">
       <p>HDFC Equitas Elegance Credit Card</p>
       <a href="https://www.banksathi.com/leads/equitas-elegance" target="_blank">Apply Now</a>
     </div>
